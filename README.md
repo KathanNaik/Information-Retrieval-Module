@@ -9,6 +9,10 @@ Steps to run program:
 3. This window also shows the previous 3 queries seached
 4. Enter the query you want to search and click on seach button.
 5. Now close this GUI Window by clicking on the cross button on top right.
-5. main.py program will process the query and retrieve the data.
-6. The retrieved data is printed to searchResultPhraseQuery.txt which stores result query as phase query and searchResultBoolean.txt files which stores all the paragraph containing those words.
-7. Open the file from the execution folder to see the results.
+6. main.py program will process the query and retrieve the data.
+7. The retrieved data is printed to searchResultPhraseQuery.txt which stores result query as phase query and searchResultBoolean.txt files which stores all the paragraph containing those words.
+8. Open the file from the execution folder to see the results. ( both boolean and phase searches will be there )
+9. log.txt will store your search history and display it on the UI.
+
+Here i have also given some random data to check the functioning of code.
+
